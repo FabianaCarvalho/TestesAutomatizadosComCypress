@@ -14,5 +14,16 @@ Durante o curso de testes automatizados com Cypress (básico), o que eu Aprendi:
 - Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como criar uma documentação mínima para seu projeto de testes automatizados
 
+During the Cypress automated testing course (basic), I learned:
 
-
+- How to set up a Cypress project from scratch
+- How to visit local and remote pages
+- How to handle the most common elements found in web applications
+- How to test file uploads
+- How to perform various checks for expected results
+- How to create custom commands
+- How to handle links that open in a new browser tab
+- How to run tests simulating the dimensions of a mobile device
+- How to solve the same problems in different ways, knowing the Cypress API
+- How to execute tests in a continuous integration pipeline whenever changes occur in the application code (or tests)
+- How to create minimal documentation for your automated testing project.
